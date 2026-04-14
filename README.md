@@ -16,7 +16,7 @@ To build strong programming fundamentals using Python.
 I am continuously learning and adding new concepts.
 
 ## 📫 Connect with me
-LinkedIn: https://www.linkedin.com/in/your-link
+LinkedIn: www.linkedin.com/in/deepak-kumar-sinha-3052713a2
 
 ---
 💡 Learning by doing!
